@@ -150,5 +150,5 @@ Tracks payment transactions.
 
 ---
 
-**Author:** DBMS Academic Project  
+**Author:** Vansh Goel(341044) - Tanya Thukral(341058) - Uday Jhunjhunwala(341060)  
 **Domain:** Quick Commerce / E-Grocery (Blinkit-inspired)
